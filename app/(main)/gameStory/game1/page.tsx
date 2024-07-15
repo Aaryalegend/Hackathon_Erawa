@@ -7,6 +7,7 @@ import { useRouter } from "next/router";
 
 
 const PathwayGame1: React.FC = () => {
+  
   const [stage, setStage] = useState<number>(0);
 
 
